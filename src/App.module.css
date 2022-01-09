@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+body {
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #2a334c;
+}
+
+.gameField {
+  width: 640px;
+  height: 640px;
+  display: flex;
+  flex-wrap: wrap;
+}
